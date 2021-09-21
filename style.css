@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+.carousel-inner{
+height:fit-content;
+}
+.form{
+    margin-left: 0px;
+    padding:10px;
+    border: #afd9f7 solid;
+    text-align: center;
+}
+footer{
+    background-color:skyblue;
+    color:#001;
+    font-size: 18px;
+    font-weight: large;
+}
+footer a{
+    text-decoration: none;
+    color:#001;
+}
